@@ -9,20 +9,26 @@ PovertyVista360 is an interactive web application designed to visualize poverty 
 Features
 
 Interactive Map: Integrates OpenStreetMap to display poverty data geographically.
+
 Country List and Search: Allows users to search for and select countries from a dynamic list.
+
 Markers and Popups: Displays markers on the map with detailed information about the selected country's poverty index.
+
 Custom Styling: Uses Leaflet and Leaflet.AwesomeMarkers for customized map markers.
+
 Getting Started
 Follow these instructions to set up the project on your local machine.
 
 Prerequisites
 
 Web browser (e.g., Google Chrome, Firefox)
+
 Code editor (optional, e.g., VS Code)
 
 Installation
 
 Clone the repository: git clone https://github.com/sagar-sahu1/PovertyVista360.git
+
 cd PovertyVista360
 
 Run the application:
