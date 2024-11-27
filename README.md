@@ -1,10 +1,13 @@
 Live url -
+
 https://charming-sopapillas-f826c7.netlify.app/
 
 PovertyVista360
+
 PovertyVista360 is an interactive web application designed to visualize poverty data across different countries using OpenStreetMap. This project aims to provide valuable insights for NGOs, researchers, policymakers, and small social help groups working to address poverty issues.
 
 Features
+
 Interactive Map: Integrates OpenStreetMap to display poverty data geographically.
 Country List and Search: Allows users to search for and select countries from a dynamic list.
 Markers and Popups: Displays markers on the map with detailed information about the selected country's poverty index.
@@ -13,17 +16,21 @@ Getting Started
 Follow these instructions to set up the project on your local machine.
 
 Prerequisites
+
 Web browser (e.g., Google Chrome, Firefox)
 Code editor (optional, e.g., VS Code)
-Installation
-Clone the repository: git clone https://github.com/sagar-sahu1/PovertyVista360.git
 
+Installation
+
+Clone the repository: git clone https://github.com/sagar-sahu1/PovertyVista360.git
 cd PovertyVista360
 
 Run the application:
+
 Open index.html in your browser to view the application.
 
 How to Use
+
 Search for a Country:
 
 View Poverty Data: Click on the markers on the map to see detailed information about the poverty index in the selected country.
